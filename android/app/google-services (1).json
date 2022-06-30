@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581027942352",
+    "project_id": "flutter-excel-b25b2",
+    "storage_bucket": "flutter-excel-b25b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581027942352:android:24a07b334a992d4a7bf3d5",
+        "android_client_info": {
+          "package_name": "com.example.excel_transfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581027942352-akdifkt94f7jhh11e3k4to3710m1e4bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsb9cPK47OFc5hVBk-leYUBtdu_ZW3IlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581027942352-akdifkt94f7jhh11e3k4to3710m1e4bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
