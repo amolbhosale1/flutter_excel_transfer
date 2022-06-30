@@ -1,6 +1,6 @@
 # excel_transfer
 
-A new Flutter project.
+Flutter app that send data enter by user in fields to Google Sheets.
 
 ## Getting Started
 
